@@ -59,7 +59,7 @@ body {
 /* ESTILIZANDO EL HERO 1 */
 .hero {
   height: 85vh;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Items/backgrounds/hero2.jpg);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../Items/backgrounds/hero2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -116,7 +116,7 @@ section {
 .sobre-mi {
   height: 800px;
   padding: 10px;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(/Items/backgrounds/section-sobremi.jpg);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(../Items/backgrounds/section-sobremi.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -158,37 +158,37 @@ section {
 }
 
 .bg__1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Items/backgrounds/img-modelohombre.jpg);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../Items/backgrounds/img-modelohombre.jpg);
   background-size: cover;
   background-position: center 0.5px;
 }
 
 .bg__2 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Items/backgrounds/overshide.webp);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../Items/backgrounds/overshide.webp);
   background-size: cover;
   background-position: center;
 }
 
 .bg__3 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Items/backgrounds/bg-verano.jpg);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../Items/backgrounds/bg-verano.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .bg__4 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Items/backgrounds/aesthetic.jpg);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../Items/backgrounds/aesthetic.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .bg__5 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Items/backgrounds/bg-vintaje.jpg);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../Items/backgrounds/bg-vintaje.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .bg__6 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/Items/backgrounds/bg-minimalista.webp);
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../Items/backgrounds/bg-minimalista.webp);
   background-size: cover;
   background-position: center;
 }
